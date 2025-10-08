@@ -4,7 +4,7 @@
 This project focuses on Sentiment Analysis, a Natural Language Processing (NLP) task that identifies and classifies opinions expressed in text as positive or negative.  
 The Yelp Review Dataset was used to train, validate, and evaluate multiple deep learning models, comparing their performance across key metrics such as accuracy, precision, recall, and F1-score.
 
-The pipeline includes comprehensive text preprocessing, data transformation**, and fine-tuning of four models:  
+The pipeline includes comprehensive text preprocessing, data transformation, and fine-tuning of four models:  
 BERT, DistilBERT, XLNet, and LSTM.
 
 
