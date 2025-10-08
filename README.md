@@ -29,7 +29,7 @@ BERT, DistilBERT, XLNet, and LSTM.
 ├── DistilBERT/
 ├── XLNet/ 
 ├── LSTM/ 
-├── Data Preprocessing
+├── Data Preprocessing/
 └── README.md # Project documentation
 ```
 
